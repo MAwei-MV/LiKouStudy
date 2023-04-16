@@ -13,4 +13,8 @@ public class WorkInMain {
         System.out.println("$$$$");
         return "test for 4";
     }
+
+    public void addSomeFunc() {
+        System.out.println("do something if develop2");
+    }
 }
