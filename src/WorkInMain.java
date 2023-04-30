@@ -18,7 +18,4 @@ public class WorkInMain {
         System.out.println("do something if develop2");
     }
 
-    public viud addOtherFunc() {
-        System.out.println("do something in develop1");
-    }
 }
