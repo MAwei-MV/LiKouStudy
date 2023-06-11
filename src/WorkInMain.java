@@ -17,4 +17,12 @@ public class WorkInMain {
     public void addSomeFunc() {
         System.out.println("do something if develop2");
     }
+
+    public void addOtherFunc() {
+        System.out.println("do something in develop1");
+    }
+
+    public void inDevelop2() {
+        System.out.println("test for stash in develop2");
+    }
 }
