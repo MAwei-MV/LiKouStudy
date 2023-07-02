@@ -11,5 +11,6 @@ public class TestForHello {
         System.out.println("in firstWorkspace3");
         System.out.println("in otherSpace4");
         System.out.println("in firstWorkSpace4");
+        System.out.println("int firstWorkspace5");
     }
 }
